@@ -4,9 +4,9 @@ import { View, StyleSheet } from "react-native";
 const Circle = () => {
 	const styles = StyleSheet.create({
 		circle: {
-			width: 70,
-			height: 70,
-			borderRadius: 70,
+			width: 56.69,
+			height: 56.69,
+			borderRadius: "50%",
 			backgroundColor: "red",
 		},
 	});
